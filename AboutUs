@@ -1,0 +1,17 @@
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Favorite Word</th> 
+    <th>Why They Took Comp Sci</th>
+  </tr>
+  <tr>
+    <td>Alina</td>
+    <td>conspicuous</td> 
+    <td>I love anything STEM, and felt I needed to expand my horizons, becuase I believe comp sci truly is the future.</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>

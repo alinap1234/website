@@ -1,3 +1,4 @@
+
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
@@ -10,8 +11,19 @@
     <td>I love anything STEM, and felt I needed to expand my horizons, becuase I believe comp sci truly is the future.</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td>Katherine</td>
+    <td>bubble</td> 
+    <td>Why not?!</td>
   </tr>
+<tr> 
+    <td>Caroline</td>
+    <td>happy</td>
+    <td>Loves to code!>
+</tr> 
+<tr>  
+ <td>Natalee</td>
+ <td>doesn't have one</td>
+ <td>Loves to code in Robotics, figured she'd like this class!</td>
+</tr>
+
 </table>
